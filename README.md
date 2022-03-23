@@ -16,4 +16,4 @@ There are many benefits of using data store over shared preferences but a few th
 * Shared preferences had no mechanism for signalling errors, lack of transactional API, while datastore stores data asynchronously with consistency and transaction support.
 
 # Screenshot
-![WhatsApp Image 2022-03-23 at 7 30 44 PM](https://user-images.githubusercontent.com/22006238/159711003-5214329f-82d7-49c8-977a-360fa433fdd5.jpeg)
+![Screenshot_9](https://user-images.githubusercontent.com/22006238/159722583-f060878f-e6bb-40f5-9343-f933796ad74c.png)
